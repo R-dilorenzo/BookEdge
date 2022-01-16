@@ -13,13 +13,13 @@ L'applicazione permette di ricercare attraverso un API (OpenLibrary) le informaz
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/R-dilorenzo/BookEdge.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd BookEdge-main
 ```
 
 Install dependencies
