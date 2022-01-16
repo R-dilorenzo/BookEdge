@@ -1,4 +1,4 @@
-![Logo](https://github.com/R-dilorenzo/R-dilorenzo/blob/master/Cover/Cover_BookEdge.png)
+![Logo](https://github.com/R-dilorenzo/R-dilorenzo/blob/master/Cover/Banner_BookEdge.png)
 
 # BookEdge
 
